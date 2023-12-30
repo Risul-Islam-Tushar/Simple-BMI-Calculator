@@ -1,0 +1,15 @@
+* {
+  background-color: azure;
+  text-align: center;
+}
+button {
+  background-color: cadetblue;
+  border-radius: 20px;
+  padding: 5px;
+}
+button:hover {
+  background-color: darkslateblue;
+}
+#result {
+  margin-top: 2px;
+}
